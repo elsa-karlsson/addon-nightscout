@@ -47,7 +47,8 @@
       "pushover",
       "bgi",
       "pump",
-      "openaps"
+      "openaps",
+      "bridge"
     ]
   },
   "schema": {
